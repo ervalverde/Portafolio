@@ -1,0 +1,201 @@
+fecha,producto,provincia,monto
+2024-06-28,Galletas,San José,10040.16
+2024-07-14,Café,Heredia,14282.94
+2024-04-11,Té,Limón,8379.83
+2024-02-02,Galletas,Cartago,6330.19
+2024-09-08,Galletas,Guanacaste,5753.56
+2024-05-25,Pan,Limón,2738.9
+2024-07-19,Café,Puntarenas,10490.19
+2024-04-26,Té,San José,3725.75
+2024-04-20,Pan,Guanacaste,13221.72
+2024-03-27,Té,Limón,11117.57
+2024-08-18,Chocolate,Puntarenas,14994.79
+2024-09-29,Pan,Guanacaste,4157.41
+2024-10-07,Galletas,Cartago,12936.39
+2024-07-10,Café,Alajuela,4270.72
+2024-10-15,Pan,San José,7691.94
+2024-04-14,Pan,Cartago,14522.34
+2024-11-05,Café,Cartago,13768.33
+2024-04-10,Chocolate,Limón,4736.84
+2024-10-14,Galletas,Cartago,3852.19
+2024-10-09,Té,Cartago,8133.57
+2024-05-13,Café,San José,13394.69
+2024-01-24,Café,Cartago,3359.36
+2024-03-10,Galletas,Alajuela,9194.96
+2024-11-16,Pan,Guanacaste,2932.61
+2024-05-23,Café,Alajuela,5718.61
+2024-11-05,Chocolate,Alajuela,8764.7
+2024-09-14,Café,Alajuela,2496.78
+2024-07-31,Galletas,Puntarenas,4521.26
+2024-06-24,Pan,Alajuela,9665.88
+2024-10-13,Café,Limón,4916.54
+2024-02-01,Pan,Cartago,7201.82
+2024-06-23,Café,Limón,12037.06
+2024-08-15,Chocolate,Heredia,9665.37
+2024-02-08,Chocolate,Limón,10119.97
+2024-02-26,Té,Alajuela,6761.84
+2024-07-31,Té,Alajuela,13852.59
+2024-01-03,Chocolate,Alajuela,1210.62
+2024-01-15,Café,Puntarenas,12244.0
+2024-06-05,Pan,Guanacaste,3966.82
+2024-02-18,Té,Guanacaste,14826.44
+2024-06-09,Chocolate,Limón,6873.88
+2024-01-25,Café,Alajuela,12368.19
+2024-02-16,Café,San José,13202.61
+2024-07-18,Chocolate,Heredia,6939.16
+2024-06-20,Té,Guanacaste,9720.16
+2024-12-05,Chocolate,San José,8330.96
+2024-03-21,Té,Puntarenas,9682.31
+2024-12-02,Chocolate,Alajuela,11758.91
+2024-08-30,Galletas,Guanacaste,4596.76
+2024-07-24,Café,San José,11314.7
+2024-03-27,Galletas,Puntarenas,13904.37
+2024-01-15,Chocolate,Heredia,1151.21
+2024-09-13,Café,Alajuela,8317.77
+2024-01-23,Café,Heredia,9475.96
+2024-08-17,Chocolate,Guanacaste,3967.22
+2024-04-18,Café,Puntarenas,9111.78
+2024-02-11,Chocolate,Heredia,13143.96
+2024-12-08,Galletas,Heredia,12477.33
+2024-08-08,Pan,Heredia,12895.34
+2024-05-17,Café,Limón,13000.22
+2024-04-23,Pan,Cartago,11055.45
+2024-02-25,Galletas,Limón,10265.98
+2024-01-18,Té,Alajuela,1757.35
+2024-08-11,Pan,Puntarenas,13158.76
+2024-11-06,Té,San José,4771.6
+2024-01-27,Chocolate,Cartago,11462.4
+2024-08-11,Café,Limón,11688.84
+2024-08-12,Galletas,Cartago,7202.81
+2024-11-06,Té,Cartago,9180.59
+2024-05-25,Pan,Alajuela,3204.35
+2024-12-06,Chocolate,Cartago,2874.78
+2024-03-03,Chocolate,Guanacaste,10836.49
+2024-08-15,Pan,Cartago,5689.39
+2024-10-24,Chocolate,San José,1995.23
+2024-09-05,Galletas,Cartago,6082.31
+2024-09-12,Té,Alajuela,8746.2
+2024-03-21,Té,Puntarenas,8581.57
+2024-06-12,Galletas,Guanacaste,9300.73
+2024-09-22,Té,Guanacaste,1287.7
+2024-06-20,Pan,San José,2523.81
+2024-05-12,Pan,Heredia,14493.54
+2024-03-19,Café,Puntarenas,4572.51
+2024-08-01,Té,San José,14038.22
+2024-02-22,Galletas,Cartago,4539.8
+2024-05-17,Té,Alajuela,8389.96
+2024-01-12,Té,San José,14787.71
+2024-08-26,Galletas,Cartago,14993.41
+2024-06-15,Té,Guanacaste,14408.23
+2024-03-08,Chocolate,Puntarenas,6142.34
+2024-06-12,Galletas,Cartago,6946.97
+2024-01-21,Té,Alajuela,9057.58
+2024-06-30,Pan,Alajuela,13557.32
+2024-02-06,Té,Puntarenas,4435.45
+2024-04-27,Té,San José,4601.96
+2024-02-15,Chocolate,Cartago,10458.21
+2024-05-03,Chocolate,Limón,12152.11
+2024-08-07,Té,San José,9062.6
+2024-11-09,Chocolate,Puntarenas,5119.63
+2024-05-08,Café,San José,1059.42
+2024-05-01,Chocolate,San José,5747.56
+2024-11-07,Chocolate,Cartago,7324.65
+2024-01-11,Té,Limón,7588.97
+2024-01-14,Chocolate,Heredia,3772.88
+2024-09-24,Té,Limón,1857.09
+2024-06-12,Pan,Alajuela,6924.5
+2024-10-19,Galletas,Heredia,1467.69
+2024-12-25,Té,Limón,4840.04
+2024-04-09,Té,Heredia,6871.29
+2024-07-10,Café,Alajuela,8724.15
+2024-01-27,Pan,Alajuela,4378.94
+2024-03-29,Té,Alajuela,5180.78
+2024-11-15,Chocolate,Alajuela,11403.36
+2024-09-22,Chocolate,Limón,10996.33
+2024-01-14,Té,Limón,9762.22
+2024-12-17,Galletas,Guanacaste,9929.33
+2024-01-03,Té,Alajuela,6403.68
+2024-11-11,Galletas,Limón,11441.82
+2024-10-28,Café,Guanacaste,1643.63
+2024-04-02,Galletas,Limón,4357.5
+2024-09-21,Chocolate,Heredia,2146.16
+2024-03-06,Chocolate,Heredia,14911.04
+2024-08-18,Café,San José,10691.06
+2024-11-19,Café,San José,3555.85
+2024-12-25,Pan,Puntarenas,13411.17
+2024-06-26,Té,Cartago,2794.84
+2024-12-14,Té,Puntarenas,5771.81
+2024-04-12,Chocolate,Heredia,12587.82
+2024-06-23,Chocolate,Heredia,12670.39
+2024-11-10,Chocolate,Heredia,14908.51
+2024-02-23,Pan,Cartago,11253.95
+2024-10-04,Pan,Limón,11825.61
+2024-09-19,Chocolate,San José,2753.47
+2024-06-11,Galletas,San José,1782.39
+2024-04-25,Té,San José,10626.6
+2024-03-01,Galletas,Alajuela,7771.6
+2024-12-21,Pan,Heredia,12090.65
+2024-12-19,Chocolate,Heredia,13021.83
+2024-11-23,Galletas,Puntarenas,11801.3
+2024-11-17,Galletas,Cartago,4381.48
+2024-06-01,Pan,Puntarenas,5620.69
+2024-06-25,Té,San José,3780.27
+2024-01-14,Té,Alajuela,1064.4
+2024-01-07,Café,Puntarenas,12050.97
+2024-06-03,Café,Cartago,8222.9
+2024-05-25,Galletas,Limón,7209.09
+2024-04-11,Galletas,San José,12282.13
+2024-04-21,Galletas,Limón,2785.35
+2024-12-02,Café,San José,4733.31
+2024-11-11,Pan,Limón,3059.8
+2024-07-25,Té,Guanacaste,8086.53
+2024-05-14,Café,San José,4140.87
+2024-09-21,Galletas,Limón,2595.41
+2024-07-22,Pan,San José,7525.45
+2024-02-12,Té,Guanacaste,7414.24
+2024-07-07,Pan,Alajuela,8441.94
+2024-11-25,Chocolate,Puntarenas,1452.27
+2024-01-09,Café,Guanacaste,6855.38
+2024-01-29,Café,Cartago,13505.38
+2024-05-01,Chocolate,Limón,14406.08
+2024-05-13,Pan,Guanacaste,11889.71
+2024-12-25,Pan,Puntarenas,13663.86
+2024-07-26,Pan,Cartago,9793.51
+2024-06-05,Pan,San José,11543.81
+2024-07-05,Galletas,Guanacaste,11955.17
+2024-09-16,Pan,Guanacaste,7691.93
+2024-11-07,Pan,Alajuela,2110.6
+2024-08-20,Té,Heredia,4584.85
+2024-12-29,Pan,Guanacaste,3932.24
+2024-05-26,Té,Puntarenas,10316.01
+2024-10-21,Café,Limón,5597.98
+2024-06-01,Chocolate,Guanacaste,13762.5
+2024-11-04,Pan,Heredia,5818.31
+2024-01-21,Galletas,Heredia,4550.15
+2024-01-12,Galletas,Limón,3632.74
+2024-02-05,Café,San José,8285.08
+2024-01-26,Té,Alajuela,13393.34
+2024-07-22,Café,Alajuela,2744.89
+2024-12-05,Té,Cartago,9820.35
+2024-12-20,Galletas,Guanacaste,9938.34
+2024-11-08,Galletas,Guanacaste,3759.31
+2024-01-23,Café,San José,6205.14
+2024-02-20,Café,San José,13211.42
+2024-06-05,Chocolate,Alajuela,3114.6
+2024-01-31,Galletas,Limón,11708.17
+2024-09-04,Café,Puntarenas,6765.29
+2024-07-29,Pan,San José,5763.09
+2024-06-26,Té,Heredia,3794.09
+2024-05-27,Té,Puntarenas,9787.26
+2024-08-14,Café,Guanacaste,5015.87
+2024-09-13,Chocolate,Heredia,8946.31
+2024-02-12,Té,San José,7040.55
+2024-02-16,Té,Alajuela,5901.8
+2024-09-16,Café,Heredia,9874.64
+2024-01-31,Té,Cartago,14057.74
+2024-10-23,Café,Limón,3195.65
+2024-02-16,Chocolate,Cartago,1967.28
+2024-01-16,Chocolate,Alajuela,10094.67
+2024-12-09,Pan,Alajuela,13438.36
+2024-12-12,Té,San José,5980.94
+2024-04-15,Té,Puntarenas,2032.88
