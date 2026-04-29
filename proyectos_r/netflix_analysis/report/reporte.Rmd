@@ -1,0 +1,12 @@
+# Análisis del catálogo de Netflix
+
+## Introducción
+Este proyecto analiza el catálogo de Netflix utilizando R...
+
+## Hallazgos
+- Predominan las películas sobre las series
+- Estados Unidos lidera en contenido
+- Crecimiento fuerte después de 2015
+
+## Conclusión
+Netflix ha tenido una expansión acelerada...
