@@ -1,0 +1,17 @@
+Campo,Tipo de Dato,Nivel Riesgo
+Name,Personal Directo,5.0
+Age,Cuasi Identificador,4.0
+Gender,Cuasi Identificador,4.0
+Blood Type,Dato Sensible,5.0
+Medical Condition,Dato Sensible,5.0
+Date of Admission,Dato Operacional,2.0
+Doctor,Dato Personal,
+Hospital,Dato Operacional,2.0
+Insurance Provider,Dato Financiero,4.0
+Billing Amount,Dato Financiero,4.0
+Room Number,Dato Operacional,2.0
+Admission Type,Dato Operacional,2.0
+Discharge Date,Dato Operacional,2.0
+Medication,Dato Sensible,5.0
+Test Results,Dato Sensible,5.0
+Length of Stay,Dato Derivado,1.0

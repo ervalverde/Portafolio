@@ -1,0 +1,17 @@
+Campo,Tipo de Dato,Nivel Riesgo,Sensibilidad,Exposicion,Impacto,Probabilidad,Risk Score,Nivel de Riesgo,Recomendacion
+Name,Personal Directo,5.0,5,5,5,4,500,Crítico,Anonimización + cifrado + control estricto
+Age,Cuasi Identificador,4.0,4,4,4,3,192,Medio,Control básico + monitoreo
+Gender,Cuasi Identificador,4.0,4,4,4,3,192,Medio,Control básico + monitoreo
+Blood Type,Dato Sensible,5.0,5,4,5,4,400,Crítico,Anonimización + cifrado + control estricto
+Medical Condition,Dato Sensible,5.0,5,4,5,4,400,Crítico,Anonimización + cifrado + control estricto
+Date of Admission,Dato Operacional,2.0,2,2,2,2,16,Bajo,Uso controlado
+Doctor,Dato Personal,,5,4,5,4,400,Crítico,Anonimización + cifrado + control estricto
+Hospital,Dato Operacional,2.0,2,2,2,2,16,Bajo,Uso controlado
+Insurance Provider,Dato Financiero,4.0,4,3,4,3,144,Medio,Control básico + monitoreo
+Billing Amount,Dato Financiero,4.0,4,3,4,3,144,Medio,Control básico + monitoreo
+Room Number,Dato Operacional,2.0,2,2,2,2,16,Bajo,Uso controlado
+Admission Type,Dato Operacional,2.0,2,2,2,2,16,Bajo,Uso controlado
+Discharge Date,Dato Operacional,2.0,2,2,2,2,16,Bajo,Uso controlado
+Medication,Dato Sensible,5.0,5,4,5,4,400,Crítico,Anonimización + cifrado + control estricto
+Test Results,Dato Sensible,5.0,5,4,5,4,400,Crítico,Anonimización + cifrado + control estricto
+Length of Stay,Dato Derivado,1.0,1,2,2,1,4,Bajo,Uso controlado
